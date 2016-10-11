@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<!--#include virtual="../include/precontentinclude.html" -->
+
+<h1>Hello World, this is a dynamic page with SHTML references</h1>
+<p>content here!</p>
+
+<!--#include virtual="../include/postcontentinclude.html" -->
