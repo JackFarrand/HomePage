@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<!-- Template by Quackit.com -->
+
+<!--#include virtual="include/precontentinclude.html" -->
+
+    <!-- Content -->
+    <div class="container">
+
+        <!-- Heading -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">JackFarrand.uk
+                    <small>Homepage of the FarrandCore VPS</small>
+                </h1>
+            </div>
+        </div>
+        <!-- /.row -->
+            <div class="col-md-6 portfolio-item">
+                <a href="#">
+                    <img class="img-responsive" src="http://i.imgur.com/OIEpuHL.png" alt="">
+                </a>
+                <h3>
+                    <a href="#">HawkShip</a>
+                </h3>
+                <p>Based on the Red Arrows Hawk aircraft and making use of concept engines known as Bussard-Ramjets this design was an early venture into more featureful models, including landing gear, intakes and profiled wing surfaces.</p>
+            </div>
+        </div>
+
+<!--#include virtual="include/postcontentinclude.html" -->
